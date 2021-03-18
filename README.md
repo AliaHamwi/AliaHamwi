@@ -1,5 +1,6 @@
 ### Hi there , my name is Alia Hamwi👋
 
+I am an AI and software engineer with many years of experiences in applying machine learning and natural language processing to solve real-world problems both in industry and academia, I am always interested in new opportunities that will allow me to continue to apply and extend my expertise by exploring new areas.
 <!--
 **AliaHamwi/AliaHamwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
